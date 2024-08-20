@@ -9,3 +9,5 @@ build
 dist
 node_modules
 /src/uni_modules
+env.d.ts
+shime-uni.d.ts
