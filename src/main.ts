@@ -13,6 +13,6 @@ export function createApp() {
   app.use(store)
   return {
     app,
-    Pinia
+    Pinia,
   }
 }
